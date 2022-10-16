@@ -1,6 +1,7 @@
 # reglatres
 Programa que hace reglas de tres para calcular proporcionalidad.
 
+(Lo que sigue se ve mejor en texto original, sin el formateo automatico de Github.)
 Proporcionalidad
 -----------------
 
